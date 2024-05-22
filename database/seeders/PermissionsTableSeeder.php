@@ -2341,6 +2341,303 @@ class PermissionsTableSeeder extends Seeder
                 'created_at' => '2024-04-30 11:15:42',
                 'updated_at' => '2024-04-30 11:15:42',
             ),
+            258 => 
+            array (
+                'id' => 500,
+                'name' => 'About Us create',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:02',
+                'updated_at' => '2024-05-21 15:26:02',
+            ),
+            259 => 
+            array (
+                'id' => 501,
+                'name' => 'About Us index',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:02',
+                'updated_at' => '2024-05-21 15:26:02',
+            ),
+            260 => 
+            array (
+                'id' => 502,
+                'name' => 'About Us show',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:02',
+                'updated_at' => '2024-05-21 15:26:02',
+            ),
+            261 => 
+            array (
+                'id' => 503,
+                'name' => 'About Us edit',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:02',
+                'updated_at' => '2024-05-21 15:26:02',
+            ),
+            262 => 
+            array (
+                'id' => 504,
+                'name' => 'About Us destroy',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:02',
+                'updated_at' => '2024-05-21 15:26:02',
+            ),
+            263 => 
+            array (
+                'id' => 505,
+                'name' => 'About Us trash',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:02',
+                'updated_at' => '2024-05-21 15:26:02',
+            ),
+            264 => 
+            array (
+                'id' => 506,
+                'name' => 'About Us restore',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:02',
+                'updated_at' => '2024-05-21 15:26:02',
+            ),
+            265 => 
+            array (
+                'id' => 507,
+                'name' => 'About Us delete',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:03',
+                'updated_at' => '2024-05-21 15:26:03',
+            ),
+            266 => 
+            array (
+                'id' => 508,
+                'name' => 'About Us status',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:03',
+                'updated_at' => '2024-05-21 15:26:03',
+            ),
+            267 => 
+            array (
+                'id' => 509,
+                'name' => 'About Us properties',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:03',
+                'updated_at' => '2024-05-21 15:26:03',
+            ),
+            268 => 
+            array (
+                'id' => 510,
+                'name' => 'About Us print',
+                'parent' => 'About Us',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 15:26:03',
+                'updated_at' => '2024-05-21 15:26:03',
+            ),
+            269 => 
+            array (
+                'id' => 511,
+                'name' => 'Message From Chairman create',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            270 => 
+            array (
+                'id' => 512,
+                'name' => 'Message From Chairman index',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            271 => 
+            array (
+                'id' => 513,
+                'name' => 'Message From Chairman show',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            272 => 
+            array (
+                'id' => 514,
+                'name' => 'Message From Chairman edit',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            273 => 
+            array (
+                'id' => 515,
+                'name' => 'Message From Chairman destroy',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            274 => 
+            array (
+                'id' => 516,
+                'name' => 'Message From Chairman trash',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            275 => 
+            array (
+                'id' => 517,
+                'name' => 'Message From Chairman restore',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            276 => 
+            array (
+                'id' => 518,
+                'name' => 'Message From Chairman delete',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            277 => 
+            array (
+                'id' => 519,
+                'name' => 'Message From Chairman status',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            278 => 
+            array (
+                'id' => 520,
+                'name' => 'Message From Chairman properties',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            279 => 
+            array (
+                'id' => 521,
+                'name' => 'Message From Chairman print',
+                'parent' => 'Message From Chairman',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 16:27:57',
+                'updated_at' => '2024-05-21 16:27:57',
+            ),
+            280 => 
+            array (
+                'id' => 522,
+                'name' => 'Blog create',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:50',
+                'updated_at' => '2024-05-21 18:21:50',
+            ),
+            281 => 
+            array (
+                'id' => 523,
+                'name' => 'Blog index',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:50',
+                'updated_at' => '2024-05-21 18:21:50',
+            ),
+            282 => 
+            array (
+                'id' => 524,
+                'name' => 'Blog show',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:51',
+                'updated_at' => '2024-05-21 18:21:51',
+            ),
+            283 => 
+            array (
+                'id' => 525,
+                'name' => 'Blog edit',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:51',
+                'updated_at' => '2024-05-21 18:21:51',
+            ),
+            284 => 
+            array (
+                'id' => 526,
+                'name' => 'Blog destroy',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:51',
+                'updated_at' => '2024-05-21 18:21:51',
+            ),
+            285 => 
+            array (
+                'id' => 527,
+                'name' => 'Blog trash',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:51',
+                'updated_at' => '2024-05-21 18:21:51',
+            ),
+            286 => 
+            array (
+                'id' => 528,
+                'name' => 'Blog restore',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:51',
+                'updated_at' => '2024-05-21 18:21:51',
+            ),
+            287 => 
+            array (
+                'id' => 529,
+                'name' => 'Blog delete',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:51',
+                'updated_at' => '2024-05-21 18:21:51',
+            ),
+            288 => 
+            array (
+                'id' => 530,
+                'name' => 'Blog status',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:51',
+                'updated_at' => '2024-05-21 18:21:51',
+            ),
+            289 => 
+            array (
+                'id' => 531,
+                'name' => 'Blog properties',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:51',
+                'updated_at' => '2024-05-21 18:21:51',
+            ),
+            290 => 
+            array (
+                'id' => 532,
+                'name' => 'Blog print',
+                'parent' => 'Blog',
+                'guard_name' => 'web',
+                'created_at' => '2024-05-21 18:21:51',
+                'updated_at' => '2024-05-21 18:21:51',
+            ),
         ));
         
         
